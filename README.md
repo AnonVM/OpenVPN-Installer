@@ -1,4 +1,3 @@
-```markdown
 # OpenVPN Install Script: Quick and Secure VPN Setup
 
 Easily deploy a secure OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux, and AlmaLinux with this automated script.
