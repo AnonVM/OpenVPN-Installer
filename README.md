@@ -144,10 +144,6 @@ Refer to the [OpenVPN Manual](https://community.openvpn.net/openvpn/wiki/Openvpn
 
 Open an issue to discuss significant changes before submitting a PR.
 
-### Code Formatting
-
-We enforce bash styling guidelines using [shellcheck](https://github.com/koalaman/shellcheck) and [shfmt](https://github.com/mvdan/sh). Configuration details are available in our [GitHub Actions file](https://github.com/angristan/openvpn-install/blob/master/.github/workflows/push.yml).
-
 ## Security and Encryption Details
 
 > **Warning**: This section has not been updated for OpenVPN 2.5 and later.
